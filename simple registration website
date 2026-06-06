@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>student registration form</title>
+</head>
+<body>
+    <h2>student registration</h2>
+</form>
+name : <input type="text"><br><br>
+email : <input type="email"><br><br>
+password: <input type="password"><br><br>
+gender :  <input type="radio" name="g">male
+                  <input type="radio" name="g">female
+                   <br><br>
+course : <select>
+              <option>BCA</option>    
+              <option>MCA</option>
+              <option>B.TECH</option>   
+              </select>
+skills :  <input type="checkbox"> HTM
+            <input type="checkbox"> CSS
+              <br><br>
+<input ty<pe ="submit">
+</form>
+</body>
+</html>
+                     
